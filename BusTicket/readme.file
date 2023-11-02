@@ -1,0 +1,50 @@
+1.
+# Project Title
+
+Bus seat Booking
+
+
+## Description
+
+a) While clicking on the seat, the seat color changes and the details of the seat is shown 
+b) While scrolling Horizontal, They should see the seat types and it’s description. Ref : 
+c) If the user clicks multiple seats, the details will get add-on in the below and the price
+increases accordingly. It should also show the price of the specific seat they are clicking near
+the seat itself (Hover for a while)
+
+
+
+## Installation
+
+
+
+# Clone the repository
+git clone https://github.com/kalayankp/Bus-Seat-Booking.git
+# Install dependencies
+npm install
+npm start
+
+2.
+
+# Vertical Bar Graph Plotter
+
+
+## Description
+
+The Vertical Bar Graph Plotter is a web application that allows users to input a value and plot it on a vertical bar graph with a gradient. It provides a visual representation of the input value as a percentage of the maximum value.
+
+
+
+## Installation
+
+To use the Vertical Bar Graph Plotter, follow these steps:
+
+1. Clone the repository to your local machine:
+
+git clone https://github.com/kalayankp/Bus-Seat-Booking.git
+
+
+open html ,css, and javascript online compilers and run respected code 
+
+
+  
